@@ -8,6 +8,8 @@ This project provides a Docker container for Lynx, a highly configurable text-ba
 - Ability to open a specific URL directly.
 - Runs on Alpine Linux for a minimal footprint.
 
+<img src="hackernews.png" alt="docker-lynx displaying Hacker News" />
+
 ## Prerequisites
 
 - Docker installed on your machine.
